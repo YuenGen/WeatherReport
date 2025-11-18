@@ -12,10 +12,10 @@
 <img width="1171" height="568" alt="Screenshot 2025-11-18 at 3 27 16 PM" src="https://github.com/user-attachments/assets/36b95cae-c0c6-45e2-9909-2ad91feb29a4" />
 
 2024 年最高溫：35°C 出現在 8月
-最低溫度：6°C 出現在1月
-全年平均氣溫24.79°C 
 
-每日溫度峰值通常出現在下午 X 點
+最低溫度：6°C 出現在1月
+
+全年平均氣溫24.79°C 
 ## 🛠 技術棧
 - **語言**: Python 3
 - **主要套件**: Pandas, Matplotlib, BeautifulSoup, xml.etree
